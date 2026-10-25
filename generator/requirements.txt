@@ -1,0 +1,4 @@
+anthropic
+jieba
+requests
+python-dotenv
